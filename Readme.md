@@ -1,10 +1,13 @@
-# webpack最基层包
+# webpack资源管理
 
-该demo结合当前最新版本webpack官方教程及相关网络文档，完成webpack项目创建和github代码托管，在其它分支中将基于该demo一步一步深入改造
+该demo结合当前最新版本webpack官方教程完成，主要内容：
+- 加载css
+- 加载图片
+- 加载字体
+- 加载数据
 
 参考地址：  
-https://www.jianshu.com/p/0d31ebee3084  
-https://doc.webpack-china.org/guides/getting-started/#-
+https://doc.webpack-china.org/guides/asset-management/
 
 ## License
 
