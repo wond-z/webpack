@@ -2,7 +2,6 @@ const path = require('path');
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const webpack = require('webpack');
 const isDev = process.env.NODE_ENV === 'development';
-console.log(__dirname)
 
 module.exports = {
     entry: './src/main.ts', // 输入文件
